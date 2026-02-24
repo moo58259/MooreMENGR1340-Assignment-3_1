@@ -1,1 +1,1 @@
-# This is my fork of the repository
+# Multiplication of integers is simply just asking, "What is this number, added to itself, this many times?" For example, if I want to know what is 7 x 4, its simply 7 + 7 + 7 + 7, which turns into 28.
